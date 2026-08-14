@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Health - Clinical Command Center & Patient Portal",
+  "description": "Comprehensive healthcare platform featuring clinical command center, patient portal, appointment scheduling, medical records & DICOM viewer, facility bed management, and pharmacy inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
